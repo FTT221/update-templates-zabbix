@@ -10,7 +10,7 @@ Add your Zabbix API token and IP address to the main.py file.
 Install required packages:
 
 ```
-apt install python3 python-pip3
+apt install python3 python3-pip
 ```
 ```
 pip3 install requests pyyaml
